@@ -21,8 +21,8 @@ npm run dev
 
 In the `./src/main.js` there is condition switching between the two.
 
-set `0` for `neat`
-set `1` for `gradient-gl`
+set `1` for `neat`
+set `0` for `gradient-gl`
 
 ```javascript
 const doNeat = 0
